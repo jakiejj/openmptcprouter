@@ -1,6 +1,6 @@
 CONFIG_TARGET_mediatek=y
 CONFIG_TARGET_mediatek_mt7622=y
-CONFIG_TARGET_mediatek_mt7622_DEVICE_linksys_e8450=y
+CONFIG_TARGET_mediatek_mt7622_DEVICE_linksys_e8450-ubi=y
 # CONFIG_PACKAGE_kmod-mt6625l-bt is not set
 # CONFIG_PACKAGE_kmod-mt6625l-wlan-gen-2 is not set
 CONFIG_PACKAGE_uboot-mediatek=y
